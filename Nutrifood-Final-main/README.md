@@ -11,4 +11,5 @@ Nutri-Fit is a revolutionary website that empowers users to make informed and he
 
 
 ###### Author/Creator:
-Mayank Ashtekar
+Pratik Dibbe
+
