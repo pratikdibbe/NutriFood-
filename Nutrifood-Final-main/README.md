@@ -1,7 +1,6 @@
 #### Nutrifit
 
-Project is Deployed and Hosted on Netlify 
-Website link : https://64be7048d129ed106859a41c--cozy-tarsier-41bdab.netlify.app/
+
 
 ###### Tech Stack :
 Bootstrap , React Js
